@@ -6,7 +6,7 @@ Group: U4125
 Author: Konyahin Ivan Michailovich
 Lab: Lab1
 Date of create: 16.04.2024
-Date of finished: --.04.2024
+Date of finished: 23.04.2024
 
 ## Шаг 1. 
 Зашел в Google Cloud, во вкладку IAM, в раздел Service Accounts. Через кнопку Create Service Account открыл интерфейс создания пользовательского доступа к серверам.
