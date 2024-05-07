@@ -35,6 +35,10 @@ https://share.vidyard.com/watch/NwLtAQcdppeBwDuDBjGLmW?
 
 ![image](https://github.com/imkonyahin/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-konyahin_i_m/assets/167180041/642b46e8-1ecf-42f8-a573-7e0bbf236857)
 
-Проверяем гит
+Видим что задача IP-3 перешла в следующий статус
 
-![image](https://github.com/imkonyahin/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-konyahin_i_m/assets/167180041/e68e5b0d-dc1d-487a-9c56-bb253f4fba1c)
+![image](https://github.com/imkonyahin/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-konyahin_i_m/assets/167180041/79791f7b-da5f-4ce7-bad4-e4e3d8065763)
+
+В гите видим пуш пул реквеста
+
+![image](https://github.com/imkonyahin/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-konyahin_i_m/assets/167180041/37c30cd4-7d10-46b3-8c0f-a86e1a027f09)
