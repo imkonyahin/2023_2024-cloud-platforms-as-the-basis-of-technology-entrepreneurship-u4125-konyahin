@@ -42,3 +42,12 @@ https://share.vidyard.com/watch/NwLtAQcdppeBwDuDBjGLmW?
 В гите видим пуш пул реквеста
 
 ![image](https://github.com/imkonyahin/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-konyahin_i_m/assets/167180041/37c30cd4-7d10-46b3-8c0f-a86e1a027f09)
+
+Смотрим работу автоматизации по следующим этапам 
+
+https://share.vidyard.com/watch/QcpXiLeLrqS9SSibZD4BXk? 
+
+Уведомления на почту приходят :)
+
+![image](https://github.com/imkonyahin/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-konyahin_i_m/assets/167180041/a3df647b-2f05-4c16-9f3b-83d642d46a67)
+
