@@ -31,3 +31,9 @@ https://share.vidyard.com/watch/P7iBksCn9eiHD3x2sYWobU?
 https://share.vidyard.com/watch/NwLtAQcdppeBwDuDBjGLmW?
 
 ## Шаг 5.
+Проверяем работу правил через Термиус
+![изображение_2024-05-07_210141851](https://github.com/imkonyahin/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-konyahin_i_m/assets/167180041/13ca72e0-efba-43d2-9f2b-d82b2e64ec74)
+
+Проверяем гит
+
+![image](https://github.com/imkonyahin/2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-konyahin_i_m/assets/167180041/e68e5b0d-dc1d-487a-9c56-bb253f4fba1c)
