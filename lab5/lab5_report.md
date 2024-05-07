@@ -5,7 +5,7 @@ Group: U4125\
 Author: Konyahin Ivan Michailovich\
 Lab: Lab5 \
 Date of create: 05.05.2024 \
-Date of finished: --.05.2024
+Date of finished: 07.05.2024
 
 ## Шаг 1.
 
